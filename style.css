@@ -1,0 +1,374 @@
+/* ==============================
+01 Basic setup 
+============================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700&display=swap');
+body{
+    font-family:'Titillium Web', sans-serif;
+}
+
+/* =====================================
+02 header style
+===================================== */
+header{
+    background-color: #87509c;
+    padding-top: 58px;
+    padding-bottom: 149px;
+    background-image: url("asset/img/helpbox-contact.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+header nav img{
+    margin-top: -6px;
+}
+header nav{
+
+}
+header nav ul{
+    margin:  0 auto;
+}
+header nav ul li{
+    padding: 0px 10px;
+}
+header nav ul li a{
+
+}
+header nav .link1{
+    background-color: #643a79;
+    color: #fff;
+    margin-top: 5px;
+    font-size: 16px;
+}
+header nav .link1:hover{
+ 
+}
+header nav .link2{
+    color: #fff;
+    margin-top: 5px;
+    font-size: 16px;
+}
+header nav .link3{
+    color: #fff;
+    margin-top: 5px;
+    font-size: 16px;
+}
+header nav .link4{
+    color: #fff;
+    margin-top: 5px;
+    font-size: 16px;
+}
+header nav .link5{
+    color: #fff;
+    margin-top: 5px;
+    font-size: 16px;
+}
+
+header .text{
+    text-align: center;
+}
+header .text h1{
+    font-size: 42.6px;
+    font-weight: 700;
+    color: #f7b10e;
+    margin-top: 147px;
+    line-height: 60px;
+}
+header .text button{
+    border:none;
+    background-color: #eb7d4b;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 63px;
+   
+}
+header .text a{
+    
+    border-bottom:3px solid #c86a40;
+}
+
+
+/* =============================
+03 banner area start
+============================= */
+#banner{
+    background-color: #17c2a4;
+    padding-top: 123px;
+    padding-bottom: 131px;
+    background-image: url("asset/img/banner.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#banner .part1{
+    text-align: center;
+}
+#banner .part1 h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+}
+#banner .part1 span{
+    display: block;
+    content: "";
+    width:87px;
+    height:4px;
+    background-color: #14a58c;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+#banner .part1 p{
+    font-size: 18px;
+    color: #fff;
+    margin-top: 24px;
+}
+#banner .part2{
+    text-align: center;
+}
+#banner .part2 img{
+    height: 139px;
+    margin-top: 85px;
+}
+#banner .part2 h3{
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 64px;
+}
+#banner .part2 p{
+    font-size: 16px;
+    color: red;
+    margin-top: 25px;
+}
+
+
+/* =============================
+04 team area start
+============================== */
+#team{
+    background-color:#e7f1f8 ;
+    padding-top:121px ;
+    padding-bottom:127px;
+}
+#team .part1{
+    text-align:center;
+}
+#team .part1 h1{
+    font-size: 41.29px;
+    font-weight: 700;
+    color:#3c4761 ;
+    
+}
+#team .part1 span{
+    display: block;
+    content: "";
+    background-color:#c8d9e5 ;
+    width: 89px;
+    height: 5px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+#team .part1 p{
+    font-size: 18.59px;
+    color:#3c4761 ;
+    margin-top: 29px;
+}
+#team .part2{
+    text-align: center;
+    
+}
+#team .part2 img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top:84px;
+}
+#team .part2 h3{
+    color:#27283d;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 48px;
+}
+#team .part2 h6{
+    font-size: 16px;
+    color: #30bae7;
+    font-weight: 700;
+}
+#team .part2 p{
+    color:#3c4761 ;
+    font-size:16px ;
+    margin-top: 35px;
+}
+#team .part2 .icon{
+    margin-left: -35px;
+    margin-top: 34px;
+}
+#team ul li{
+    display: inline-block;
+    max-resolution: ;
+}
+#team ul li a:link i{
+    color: #fff;
+}
+#team ul li a:link i::before{
+    background-color: #bdd1df;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    /* padding: 5px 5px; */
+    transform: .5s;
+    font-size: 25px;
+    padding-top: 12px;
+    transition: .5s;
+    background-color: #bdd1df;
+}
+#team ul li a:hover i::before{
+    background-color: rebeccapurple;
+    transform: rotate(360deg);
+}
+
+
+
+/* =================================
+05 scill area start
+================================= */
+#scil{
+    padding-top: 118px;
+    padding-bottom:122px ;
+    background-color: ;
+}
+#scil .part1{
+    text-align: center;
+}
+#scil .part1 h1{
+    color:#3c4761;
+    font-size:700 ;
+    font-size: 40px;
+}
+#scil .part1 span{
+    display: block;
+    width:88px ;
+    height:4px ;
+    background-color:#dfe8ed ;
+    margin: 0 auto;
+    margin-top: 12px;
+}
+#scil .part1 p{
+    font-size: 18px;
+    color: #3c4761;
+    margin-top: 18px;
+}
+#scil .part2{
+    color: ;
+    text-align: center;
+    margin-top: 88px;
+}
+#scil .part2 h3{
+    color: #3c4761;
+    font-size: 24px;
+    margin-top: 31px;
+}
+#scil .radial-progress circle{
+    stroke-width:10;
+}
+#scil .radial-progress text{
+    fill: #3c4761;
+}
+#scil .web-design circle{
+    stroke: #30bae7 ;
+}
+#scil .html circle{
+    stroke: #d74680 ;
+}
+#scil .graphic circle{
+    stroke: #15c7a8 ;
+}
+#scil .ul circle{
+    stroke: #eb7d4b;
+}
+
+
+/* ===============================
+06 pritfilo area start
+=============================== */
+#protfilo{
+    background-color:#ffdd99 ;
+    padding-top:124px ;
+    padding-bottom:112px;
+
+}
+#protfilo .part1{
+    text-align: center;
+}
+#protfilo .part1 h1{
+    color: #393939;
+    font-size:40px ;
+    font-weight:700 ;
+    letter-spacing: 5px;
+
+}
+#protfilo .part1 span{
+    display: block;
+    color: ;
+    width:87px ;
+    height:5px ;
+    background-color:#e5c37f ;
+    margin: 0 auto;
+    margin-top: 22px;
+
+}
+#protfilo .part1 p{
+    color:#393939;
+    font-size: 18px;
+    margin-top: 28px;
+}
+#protfilo .button{
+    text-align: center;
+    border: none;
+    color: #393939;
+    
+    
+}
+#protfilo .row{
+}
+#protfilo button{
+    border: none;
+    color: #393939;
+    font-size: 18px;
+    box-shadow: 5px 5px 10px;
+    margin-top: 50px;
+    box-shadow: 5px,5px,5px
+}
+#protfilo .b1{
+    background-color: #ffffff;
+    color: #393939;
+    font-size: 18px;
+    
+}
+#protfilo .b1 a{
+    text-decoration: none;
+}
+#protfilo .b2{
+    background-color:#ebc985 ;
+    font-size: ;
+    
+}
+#protfilo .b3{
+    background-color:#ebc985 ;
+}
+#protfilo .b4{
+    background-color:#ebc985 ;
+}
+
+#protfilo #part3{
+    text-align: center;
+    margin-top: 65px;
+}
+#protfilo #part3 p{
+    margin-top: 37px;
+    margin-bottom: 70px;
+}
