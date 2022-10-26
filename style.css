@@ -363,6 +363,14 @@ header .text a{
 #protfilo .b4{
     background-color:#ebc985 ;
 }
+#protfilo .part3 .img{
+    
+}
+#protfilo img{
+    width: 100%;
+    height: 300px;
+}
+
 
 #protfilo #part3{
     text-align: center;
@@ -371,4 +379,193 @@ header .text a{
 #protfilo #part3 p{
     margin-top: 37px;
     margin-bottom: 70px;
+}
+#protfilo .btn1{
+    text-align: center;
+}
+#protfilo .btn1 a{
+    background-color:#17c2a4 ;
+    border-color:#14a58c ;
+    font-size:18px ;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+
+/* ============================
+07 about area start
+============================ */
+#about{
+    background-color: #d74680;
+    padding-top: 123px;
+    padding-bottom: 139px;
+}
+#about .part1{
+    text-align: center;
+}
+#about .part1 h1{
+    color:#ffffff ;
+    font-size: 40px;
+    font-weight:700 ;
+}
+#about .part1 span{
+    display: block;
+    width:90px ;
+    height:4px ;
+    background-color:#b73c6d ;
+    color: ;
+    margin: 0 auto;
+    margin-top: ;
+}
+#about .part1 p{
+    color: #ffffff;
+    margin-top: 28px;
+    font-size: 18px;
+}
+#about .part2{
+    margin-top: 70px;
+}
+#about .part2 .ishan{
+
+}
+#about .part2 .ishan .img{
+
+}
+#about .part2 .ishan .img img{
+    width:90px;
+    height:90px;
+    border-radius: 50%;
+}
+#about .part2 .ishan .text{
+    margin-left: 70px;
+}
+#about .part2 .ishan .text h6{
+    font-size: 21px;
+    font-weight: ;
+    font-style: italic;
+    color: #ffffff;
+    line-height: 25px;
+}
+#about .part2 .ishan .text h4{
+    font-size:18px ;
+    font-weight:700 ;
+    margin-top:26px;
+    color:#ffffff ;
+}
+#about .part2 .ishan .text p{
+    color:#ffdd99;
+    font-size:18px ;
+}
+
+#about .part3{
+    margin-top: 70px;
+}
+#about .part3 .ishan{
+
+}
+#about .part3 .ishan .img{
+
+}
+#about .part3 .ishan .img img{
+    width:90px;
+    height:90px;
+    border-radius: 50%;
+}
+#about .part3 .ishan .text{
+    margin-left: 70px;
+}
+#about .part3 .ishan .text h6{
+    font-size: 21px;
+    font-weight: ;
+    font-style: italic;
+    color: #ffffff;
+    line-height: 25px;
+}
+#about .part3 .ishan .text h4{
+    font-size:18px ;
+    font-weight:700 ;
+    margin-top:26px;
+    color:#ffffff ;
+}
+#about .part3 .ishan .text p{
+    color:#ffdd99;
+    font-size:18px ;
+}
+
+
+#about .part4{
+    margin-top: 149px;
+}
+#about .part4 .ishan{
+
+}
+#about .part4 .ishan .img{
+
+}
+#about .part4 .ishan .img img{
+    width:90px;
+    height:90px;
+    border-radius: 50%;
+}
+#about .part4 .ishan .text{
+    margin-left: 70px;
+}
+#about .part4 .ishan .text h6{
+    font-size: 21px;
+    font-weight: ;
+    font-style: italic;
+    color: #ffffff;
+    line-height: 25px;
+}
+#about .part4 .ishan .text h4{
+    font-size:18px ;
+    font-weight:700 ;
+    margin-top:26px;
+    color:#ffffff ;
+}
+#about .part4 .ishan .text p{
+    color:#ffdd99;
+    font-size:18px;
+    font-size:16px;
+}
+
+
+
+
+
+
+#about .part5{
+    margin-top: 149px;
+}
+#about .part5 .ishan{
+
+}
+#about .part5 .ishan .img{
+
+}
+#about .part5 .ishan .img img{
+    width:90px;
+    height:90px;
+    border-radius: 50%;
+}
+#about .part5 .ishan .text{
+    margin-left: 70px;
+}
+#about .part5 .ishan .text h6{
+    font-size: 21px;
+    font-weight: ;
+    font-style: italic;
+    color: #ffffff;
+    line-height: 25px;
+}
+#about .part5 .ishan .text h4{
+    font-size:18px ;
+    font-weight:700 ;
+    margin-top:26px;
+    color:#ffffff ;
+}
+#about .part5 .ishan .text p{
+    color:#ffdd99;
+    font-size:18px;
+    font-size:16px;
 }

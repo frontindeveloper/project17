@@ -1,0 +1,636 @@
+@media only screen and (min-width: 576px){
+    /* ===========================
+    header area start
+    =========================== */
+    header{
+        padding-bottom:100px ;
+        padding-top: ;
+    }
+    header .text{
+
+    }
+    header .text h1{
+        font-size: 19.6px;
+        line-height: 25px;
+        margin-top: 80px;
+    }
+    header .text button{
+        margin-top: 30px;
+    }
+
+    /* =============================
+    02 banner area start
+    ============================= */
+    #banner{
+
+    }
+    #banner .part1{
+
+    }
+    #banner .part1 h1{
+        font-size: 25px;
+    }
+    #banner .part1 span{
+        width: 60px;
+    }
+    #banner .part1 p{
+        font-size: 14px;
+    }
+
+    /* ========================
+    03 team area start
+    ======================== */
+    #team{
+        padding-bottom: 90px;
+    }
+    #team .part1{
+
+    }
+    #team .part1 h1{
+        font-size: 30px;
+    }
+    #team .part1 span{
+        width: 60px;
+    }
+    #team .part1 p{
+        font-size: 14px;
+        margin-top: 24px;
+    }
+
+
+
+    /* ==========================
+    04 skill area start=
+    =========================== */
+    #scil{
+        padding-top: 80px;
+        padding-bottom: 90px;
+    }
+    #scil .part1{
+
+    }
+    #scil .part1 h1{
+        font-size: 30px;
+    }
+    #scil .part1 span{
+        width: 60px;
+        margin-top: 8px;
+    }
+    #scil .part1 p{
+        font-size: 14px;
+        margin-top: 14px;
+    }
+
+    /* =========================
+    05 protfilo area start
+    ========================== */
+    #protfilo{
+        padding-top: 90px;
+        padding-bottom: 80px;
+    }
+    #protfilo .part1{
+        
+    }
+    #protfilo .part1 h1{
+        font-size: 30px;
+    }
+    #protfilo .part1 span{
+        width: 60px;
+        margin-top: 16px;
+    }
+    #protfilo .part1 p{
+        font-size: 14px;
+        margin-top: 20px;
+
+    }
+    #protfilo img{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+
+@media only screen and (min-width: 768px){
+/* ===============================
+    header area start
+================================ */
+header{
+    padding-top: ;
+    padding-bottom: 110px;
+}
+header .text{
+
+}
+header .text h1{
+    font-size: 31px;
+    line-height: 30px;
+    margin-top:90px;
+}
+header .text button{
+    margin-top: 30px;
+}
+
+/* =========================
+#team area start
+========================= */
+#team{
+
+}
+#team .part1 h1{
+
+}
+#team .part1 span{
+
+}
+#team .part1 p{
+
+}
+#team .part2 img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+#team .part2 h3{
+   font-size: 14px;
+   margin-top: 35px;
+}
+#team .part2 h6{
+    font-size: 13px;
+}
+#team .part2 p{
+    font-size: 12px;
+}
+#team .part2 .icon{
+    margin-left: -25px;
+    margin-top: 30px;
+}
+
+#team ul li a:link i::before{
+    background-color: #bdd1df;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    display: inline-block;
+    /* padding: 5px 5px; */
+    transform: .5s;
+    font-size: 19px;
+    padding-top: 7px;
+    transition: .5s;
+    background-color: #bdd1df;
+}
+
+
+========================
+scil area start
+========================
+#scil .part1 h1{
+    font-size: 40px;
+}
+#scil .part1 p{
+    font-size: 18px;
+}
+#scil .part1 span{
+    width: 87px;
+}
+#scil .part2 h3{
+    font-size: 21px;
+    margin-top: 28px;
+}
+#scil .radial-progress circle{
+    stroke-width:7px;
+}
+
+/* ===============================
+protfilo area start
+=============================== */
+
+#protfilo .part1 h1{
+    font-size: 40px;
+}
+#protfilo .part1 span{
+    width: 87px;
+}
+#protfilo .part1 p{
+    font-size: 22px;
+}
+#protfilo img{
+    width: 100%;
+    height: 300px;
+}
+
+
+/* =============================
+about area start
+============================= */
+#about .part2 .ishan .text h6{
+    font-size: 12px;
+}
+#about .part2 .ishan .text h4{
+    font-size: 17px;
+}
+#about .part3 .ishan .text h6{
+    font-size: 11px;
+}
+
+#about .part3 .ishan .text h4{
+    font-size: 17px;
+}
+
+#about .part4{
+    margin-top: 130px;
+}
+
+#about .part4 .ishan .text h6{
+    font-size: 11px;
+}
+
+#about .part4 .ishan .text h4{
+    font-size: 17px;
+}
+#about .part5{
+    margin-top: 130px;
+}
+
+#about .part5 .ishan .text h6{
+    font-size: 11px;
+}
+#about .part5 .ishan .text h4{
+    font-size: 17px;
+}
+
+}
+@media only screen and (min-width: 992px){
+
+/* ================================
+    header area start
+================================ */
+
+header{
+    background-color: #87509c;
+    padding-top: 58px;
+    padding-bottom: 149px;
+}
+
+header .text h1{
+    font-size: 42.6px;
+    font-weight: 700;
+    margin-top: 147px;
+    line-height: 60px;
+}
+
+/* ============================
+banner area start
+============================ */
+
+
+#banner{
+    padding-top: 123px;
+    padding-bottom: 131px; 
+}
+
+#banner .part1 h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+}
+#banner .part1 span{
+    display: block;
+    content: "";
+    width:87px;
+    height:4px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#banner .part1 p{
+    font-size: 18px;
+    color: #fff;
+    margin-top: 24px;
+}
+
+#banner .part2 img{
+    height: 139px;
+    margin-top: 85px;
+}
+
+#banner .part2 h3{
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 64px;
+}
+
+#banner .part2 p{
+    font-size: 16px;
+    color: red;
+    margin-top: 25px;
+}
+
+
+/* =============================
+ team area start
+============================== */
+
+#team{
+    padding-top:121px ;
+    padding-bottom:127px;
+}
+
+#team .part1 h1{
+    font-size: 41.29px;
+    font-weight: 700;
+    color:#3c4761 ;
+    
+}
+
+#team .part1 span{
+    display: block;
+    content: "";
+    background-color:#c8d9e5 ;
+    width: 89px;
+    height: 5px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+#team .part1 p{
+    font-size: 18.59px;
+    color:#3c4761 ;
+    margin-top: 29px;
+}
+
+
+#team .part2 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top:84px;
+}
+
+
+#team .part2 h3{
+    color:#27283d;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 44px;
+}
+
+
+#team .part2 h6{
+    font-size: 18px;
+    color: #30bae7;
+    font-weight: 700;
+}
+
+
+
+#team .part2 p{
+    font-size: 16px;
+}
+
+
+#team ul li a:link i::before{
+    background-color: #bdd1df;
+    width: 49px;
+    height: 49px;
+    border-radius: 50%;
+    display: inline-block;
+    /* padding: 5px 5px; */
+    transform: .5s;
+    font-size: 25px;
+    padding-top: 12px;
+    transition: .5s;
+    background-color: #bdd1df;
+}
+
+
+#team ul li a:hover i::before{
+    background-color: rgb(252, 141, 15);
+    transform: rotate(360deg);
+}
+
+/* ============================
+skil area start
+============================ */
+#scil{
+    padding-top: 118px;
+    padding-bottom:122px ;
+}
+
+#scil .part1 h1{
+    color:#3c4761;
+    font-size:700 ;
+    font-size: 40px;
+}
+
+#scil .part1 span{
+    display: block;
+    width:88px ;
+    height:4px ;
+    background-color:#dfe8ed ;
+    margin: 0 auto;
+    margin-top: 12px;
+}
+
+#scil .part1 p{
+    font-size: 18px;
+    color: #3c4761;
+    margin-top: 18px;
+}
+
+#scil .part2 h3{
+    color: #3c4761;
+    font-size: 24px;
+    margin-top: 31px;
+}
+
+#scil .radial-progress circle{
+    stroke-width:10;
+}
+
+
+/* ===============================
+06 pritfilo area start
+=============================== */
+
+#protfilo{
+    padding-top:124px ;
+    padding-bottom:112px;
+
+}
+
+#protfilo .part1 h1{
+    color: #393939;
+    font-size:40px ;
+    font-weight:700 ;
+    letter-spacing: 5px;
+
+}
+
+
+#protfilo .part1 span{
+    display: block;
+    color: ;
+    width:87px ;
+    height:5px ;
+    background-color:#e5c37f ;
+    margin: 0 auto;
+    margin-top: 22px;
+
+}
+#protfilo .part1 p{
+    color:#393939;
+    font-size: 18px;
+    margin-top: 28px;
+}
+
+
+#protfilo .button{
+    text-align: center;
+    border: none;
+    color: #393939;  
+}
+
+
+#protfilo img{
+    width: 100%;
+    height: 300px;
+}
+
+
+#about{
+    background-color: red;
+    padding-top: 123px;
+    padding-bottom: 139px;
+}
+#about .part1 h1{
+    color:#ffffff ;
+    font-size: 40px;
+    font-weight:700 ;
+}
+#about .part1 span{
+    display: block;
+    width:90px ;
+    height:4px ;
+    background-color:#b73c6d ;
+    color: ;
+    margin: 0 auto;
+    margin-top: ;
+}
+#about .part1 p{
+    color: #ffffff;
+    margin-top: 28px;
+    font-size: 18px;
+}
+
+
+#about .part2 .ishan .img img{
+    width:90px;
+    height:90px;
+    border-radius: 50%;
+}
+
+#about .part2 .ishan .text h6{
+    font-size: 21px;
+    font-weight: ;
+    font-style: italic;
+    color: #ffffff;
+    line-height: 25px;
+}
+#about .part2{
+    margin-top: 70px;
+}
+#about .part2 .ishan .text h6{
+    font-size: 20px;
+    font-weight: ;
+    font-style: italic;
+    color: #ffffff;
+    line-height: 25px;
+}
+#about .part2 .ishan .text h4{
+    font-size:18px ;
+    font-weight:700 ;
+    margin-top:26px;
+    color:#ffffff ;
+}
+
+#about .part2 .ishan .text p{
+    color:#ffdd99;
+    font-size:18px ;
+}
+#about .part3{
+    margin-top: 70px;
+}
+
+#about .part3 .ishan .text h6{
+    font-size: 19px;
+    font-weight: ;
+    font-style: italic;
+    color: #ffffff;
+    line-height: 25px;
+}
+#about .part3 .ishan .text h4{
+    font-size:18px ;
+    font-weight:700 ;
+    margin-top:26px;
+    color:#ffffff ;
+}
+#about .part3 .ishan .text p{
+    color:#ffdd99;
+    font-size:18px ;
+}
+
+
+#about .part4{
+    margin-top: 149px;
+}
+
+#about .part4 .ishan .text h6{
+    font-size: 19px;
+    font-weight: ;
+    font-style: italic;
+    color: #ffffff;
+    line-height: 25px;
+}
+#about .part4 .ishan .text h4{
+    font-size:18px ;
+    font-weight:700 ;
+    margin-top:26px;
+    color:#ffffff ;
+}
+#about .part4 .ishan .text p{
+    color:#ffdd99;
+    font-size:18px ;
+}
+
+#about .part5{
+    margin-top: 149px;
+}
+
+#about .part5 .ishan .text h6{
+    font-size: 17px;
+    font-weight: ;
+    font-style: italic;
+    color: #ffffff;
+    line-height: 25px;
+}
+#about .part5 .ishan .text h4{
+    font-size:18px ;
+    font-weight:700 ;
+    margin-top:26px;
+    color:#ffffff ;
+}
+#about .part5 .ishan .text p{
+    color:#ffdd99;
+    font-size:18px ;
+}
+
+
+
+
+
+
+
+
+
+}
